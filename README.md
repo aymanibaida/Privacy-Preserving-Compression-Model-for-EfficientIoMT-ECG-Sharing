@@ -11,4 +11,4 @@ If you want to use GPU or parallel processing features, you can edit test.m file
 you can change the values to yes accordignly. 
 
 If you use this code please cite our research paper 
-Ayman Ibaida, Alsharif Abuadbba, Naveen Chilamkurti, Privacy-preserving compression model for efficient IoMT ECG sharing,Computer Communications,Volume 166,2021,Pages 1-8,ISSN 0140-3664,https://doi.org/10.1016/j.comcom.2020.11.010.(http://www.sciencedirect.com/science/article/pii/S0140366420319903)
+> Ayman Ibaida, Alsharif Abuadbba, Naveen Chilamkurti, Privacy-preserving compression model for efficient IoMT ECG sharing,Computer Communications,Volume 166,2021,Pages 1-8,ISSN 0140-3664,https://doi.org/10.1016/j.comcom.2020.11.010.(http://www.sciencedirect.com/science/article/pii/S0140366420319903)
